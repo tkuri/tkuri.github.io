@@ -6,11 +6,11 @@ project:
     - assets/hero-imaging.png
 
 website:
-  title: "Your Name"
-  site-url: "https://<github-username>.github.io/"
+  title: "Teppei Kurita"
+  site-url: "https://tkuri.github.io/"
   navbar: false
   page-footer:
-    center: "© 2026 [Your Name]. The views expressed on this site are my own and do not necessarily reflect those of my employer."
+    center: "Copyright 2026 Teppei Kurita. The views expressed on this site are my own and do not necessarily reflect those of my employer."
 
 format:
   html:

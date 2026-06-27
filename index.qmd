@@ -20,7 +20,7 @@ R&D engineer working at the intersection of image sensors, AI signal processing,
 :::
 
 ::: {.hero-actions aria-label="Primary links"}
-[Contact](#contact){.button .primary} [Profiles](#links){.button .secondary}
+[Contact](#contact){.button .primary .no-external} [Profiles](#links){.button .secondary .no-external}
 :::
 :::
 
