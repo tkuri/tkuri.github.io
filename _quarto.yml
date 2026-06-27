@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - .nojekyll
+    - assets/hero-imaging.png
+
+website:
+  title: "Your Name"
+  site-url: "https://<github-username>.github.io/"
+  navbar: false
+  page-footer:
+    center: "© 2026 [Your Name]. The views expressed on this site are my own and do not necessarily reflect those of my employer."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    smooth-scroll: true
+    link-external-newwindow: true

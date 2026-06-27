@@ -1,0 +1,184 @@
+---
+title: "Your Name"
+description: "Image Sensor R&D / AI Signal Processing / Computational Imaging"
+title-block-style: none
+---
+
+::: {.profile-page}
+
+:::: {.hero}
+
+::: {.hero-copy}
+::: {.eyebrow}
+Image Sensor R&D / AI Signal Processing / Computational Imaging
+:::
+
+# [Your Name] {#hero-title}
+
+::: {.hero-lead}
+I build practical imaging algorithms that connect sensor physics, signal processing, and deployable AI systems.
+:::
+
+::: {.hero-actions aria-label="Primary links"}
+[Contact](#contact){.button .primary} [Profiles](#links){.button .secondary}
+:::
+:::
+
+::: {.hero-media}
+![](assets/hero-imaging.png){fig-alt="Abstract image sensor and AI signal processing visual"}
+:::
+
+::::
+
+:::: {#about .content-section}
+::: {.section-kicker}
+About
+:::
+
+## Research and engineering for real imaging systems
+
+I am a research and development engineer focused on image sensors, AI-based signal processing, and computational imaging. My work centers on turning imaging constraints into robust algorithms for practical systems, from RAW image processing and defect correction to efficient neural processing on constrained devices.
+::::
+
+:::: {#highlights .content-section}
+::: {.section-kicker}
+Highlights
+:::
+
+## Focus Areas
+
+:::: {.card-grid}
+::: {.info-card}
+### Image sensor R&D
+
+Signal processing for emerging sensor functions and practical camera pipelines.
+:::
+
+::: {.info-card}
+### AI-based signal processing
+
+Learning-based methods for image quality, robustness, and efficient deployment.
+:::
+
+::: {.info-card}
+### Computational imaging
+
+Algorithms that combine optics, sensing, reconstruction, and downstream perception.
+:::
+
+::: {.info-card}
+### Practical imaging systems
+
+Development experience across algorithm design, constraints, validation, and delivery.
+:::
+
+::: {.info-card}
+### Kaggle Competitions Master
+
+Applied machine learning experience in competitive, measurable problem settings.
+:::
+
+::: {.info-card}
+### Community activity
+
+SSII Takagi Award and MIRU 2026 corporate relations / sponsorship committee activity.
+:::
+::::
+::::
+
+:::: {#expertise .content-section}
+::: {.section-kicker}
+Expertise
+:::
+
+## Technical Scope
+
+::: {.tag-list aria-label="Expertise areas"}
+- Image sensor signal processing
+- RAW image processing
+- Defective pixel correction
+- Demosaicing
+- Denoising
+- Polarization imaging
+- Computational photography
+- Lightweight neural networks
+- Edge AI / on-device AI
+:::
+::::
+
+:::: {#achievements .content-section .split-section}
+::: {.section-intro}
+::: {.section-kicker}
+Selected Achievements
+:::
+
+## Bridging algorithms and capture constraints
+:::
+
+::: {.check-list}
+- Contributed signal processing approaches for novel image sensor technologies.
+- Contributed to practical imaging systems under real capture, quality, and deployment constraints.
+- Built research and development experience connecting algorithms with physical imaging conditions.
+- Supported activities that connect academic communities and industry practitioners.
+:::
+::::
+
+:::: {#awards .content-section .two-column}
+::: {.section-intro}
+::: {.section-kicker}
+Awards
+:::
+
+## Recognition
+
+::: {.plain-list}
+- SSII Takagi Award, 2021
+- Kaggle Competitions Master
+:::
+:::
+
+::: {.section-intro}
+::: {.section-kicker}
+Professional Activities
+:::
+
+## Community
+
+::: {.plain-list}
+- Corporate Relations / Sponsorship Committee, MIRU 2026
+- Computer vision and image processing community activities
+:::
+:::
+::::
+
+:::: {#links .content-section}
+::: {.section-kicker}
+Links
+:::
+
+## Profiles and Publications
+
+::: {.link-grid}
+- [Google Scholar](https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID)
+- [Google Patents](https://patents.google.com/?inventor=YOUR_NAME_PLACEHOLDER)
+- [Kaggle](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
+- [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
+- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
+- [ORCID](https://orcid.org/YOUR_ORCID_ID)
+- [researchmap](https://researchmap.jp/YOUR_RESEARCHMAP_ID)
+:::
+::::
+
+:::: {#contact .content-section .contact-section}
+::: {.section-kicker}
+Contact
+:::
+
+## Professional inquiries
+
+Please contact me via LinkedIn or one of the listed professional profiles.
+
+[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID){.button .primary}
+::::
+
+:::
