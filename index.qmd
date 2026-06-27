@@ -1,5 +1,5 @@
 ---
-title: "Your Name"
+title: "Teppei Kurita"
 description: "Image Sensor R&D / AI Signal Processing / Computational Imaging"
 title-block-style: none
 ---
@@ -13,7 +13,7 @@ title-block-style: none
 Image Sensor R&D / AI Signal Processing / Computational Imaging
 :::
 
-# [Your Name] {#hero-title}
+# Teppei Kurita {#hero-title}
 
 ::: {.hero-lead}
 R&D engineer working at the intersection of image sensors, AI signal processing, and computational imaging.
@@ -69,6 +69,12 @@ Algorithms that combine optics, sensing, reconstruction, and downstream percepti
 :::
 
 ::: {.info-card}
+### Computational Imaging input
+
+Assisted with polarization imaging content for [Computational Imaging](https://imagingtext.github.io/) (MIT Press, 2022); acknowledged in related materials.
+:::
+
+::: {.info-card}
 ### Practical imaging systems
 
 Experience connecting imaging algorithms with real-world sensor constraints.
@@ -78,6 +84,18 @@ Experience connecting imaging algorithms with real-world sensor constraints.
 ### Competition results
 
 Recognized results in Kaggle and CVPR Workshop imaging challenges.
+:::
+
+::: {.info-card}
+### Public research outputs
+
+Multiple peer-reviewed results at leading computer vision venues; details are available on Google Scholar.
+:::
+
+::: {.info-card}
+### Patent record
+
+Dozens of public patent records in imaging and signal processing; details are available on Google Patents.
 :::
 
 ::: {.info-card}
@@ -93,18 +111,19 @@ Community activity across computer vision, image processing, and industry relati
 Expertise
 :::
 
-## Technical Scope
+## Technical Focus
 
 ::: {.tag-list aria-label="Expertise areas"}
+- Sensor-aware computational imaging
 - Image sensor signal processing
-- RAW image processing
-- Defective pixel correction
-- Demosaicing
-- Denoising
-- Polarization imaging
-- Computational photography
-- Lightweight neural networks
-- Edge AI / on-device AI
+- RAW / sensor-domain imaging
+- Polarization imaging and sparse sensing
+- Dual-pixel depth estimation
+- Physics-informed lightweight models
+- Low-light image enhancement
+- Image restoration and reconstruction
+- Practical camera pipelines
+- Edge AI / on-device inference
 :::
 ::::
 
@@ -118,8 +137,8 @@ Selected Competition Results
 :::
 
 ::: {.result-list}
-- **3rd Place**, NTIRE 2026 Efficient Low Light Image Enhancement Challenge, CVPR Workshop 2026
-- **3rd Place / Gold Medal**, RSNA 2024 Lumbar Spine Degenerative Classification, Kaggle
+- **3rd Place**, [NTIRE 2026 Efficient Low Light Image Enhancement Challenge](https://openaccess.thecvf.com/CVPR2026_workshops/NTIRE), CVPR Workshop 2026
+- **3rd Place / Gold Medal**, [RSNA 2024 Lumbar Spine Degenerative Classification](https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification), Kaggle
 - **Kaggle Competitions Master**
 :::
 ::::
@@ -132,8 +151,8 @@ Awards & Recognition
 ## Awards across imaging, AI, and research communities
 
 ::: {.award-list}
-- Educational Merit Award, RSNA Lumbar Spine Degenerative Classification AI Challenge, 2024
-- Takagi Award, Symposium on Sensing via Image Information, 2021
+- [Educational Merit Award](https://www.rsna.org/artificial-intelligence/ai-image-challenge/lumbar-spine-degenerative-classification-ai-challenge), RSNA Lumbar Spine Degenerative Classification AI Challenge, 2024
+- [Takagi Award](https://ssii.jp/ssii/ssii_takagi.html), Symposium on Sensing via Image Information, 2021
 - Audience Award, Symposium on Sensing via Image Information, 2018
 - Best Academic Paper Award, Symposium on Sensing via Image Information, 2018
 - Research Award, Game Programming Workshop, 2008
@@ -149,8 +168,8 @@ Professional Activities
 ## Community
 
 ::: {.plain-list}
-- Corporate Relations Vice Chair, MIRU 2026
-- Steering Committee Member, IPSJ SIG-CVIM, Apr. 2021 – Mar. 2026
+- Corporate Relations Vice Chair, [MIRU 2026](https://miru-committee.github.io/miru2026/en/)
+- Steering Committee Member, [IPSJ SIG-CVIM](https://cvim.ipsj.or.jp/), Apr. 2021 – Mar. 2026
 :::
 :::
 
@@ -162,7 +181,7 @@ Languages & Credentials
 ## Additional profile
 
 ::: {.plain-list}
-- Japanese: Native or bilingual
+- Japanese: Native
 - English: Business level
 - Kaggle Competitions Master
 - Real Estate Transaction Agent, Japan
@@ -175,15 +194,15 @@ Languages & Credentials
 Links
 :::
 
-## Profiles and Publications
+## Profiles and Research Links
 
 ::: {.link-grid}
-- [Google Scholar](https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID)
-- [Google Patents](https://patents.google.com/?inventor=YOUR_NAME_PLACEHOLDER)
-- [Kaggle](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
-- [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
-- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
-- [ORCID](https://orcid.org/YOUR_ORCID_ID)
+- [Google Scholar](https://scholar.google.com/citations?user=cFF-T_gAAAAJ)
+- [Google Patents](https://patents.google.com/?inventor=teppei+kurita&oq=teppei+kurita)
+- [Kaggle](https://www.kaggle.com/tpkuri)
+- [GitHub](https://github.com/tkuri)
+- [LinkedIn](https://www.linkedin.com/in/teppei-kurita-457409198)
+- [ORCID](https://orcid.org/0000-0002-4537-3244)
 - [researchmap](https://researchmap.jp/YOUR_RESEARCHMAP_ID)
 :::
 ::::

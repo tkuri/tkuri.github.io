@@ -298,15 +298,24 @@ main.content {
   padding: 0;
 }
 
+.link-grid li {
+  min-width: 0;
+}
+
 .link-grid a {
+  align-items: center;
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: 8px;
   color: var(--accent-strong);
+  display: flex;
   font-weight: 650;
+  height: 100%;
   min-height: 54px;
+  overflow-wrap: anywhere;
   padding: 0.85rem 1rem;
   text-decoration: none;
+  width: 100%;
 }
 
 .link-grid a:hover {
