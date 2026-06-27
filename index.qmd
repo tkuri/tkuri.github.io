@@ -16,7 +16,7 @@ Image Sensor R&D / AI Signal Processing / Computational Imaging
 # [Your Name] {#hero-title}
 
 ::: {.hero-lead}
-I build practical imaging algorithms that connect sensor physics, signal processing, and deployable AI systems.
+R&D engineer working at the intersection of image sensors, AI signal processing, and computational imaging.
 :::
 
 ::: {.hero-actions aria-label="Primary links"}
@@ -37,7 +37,9 @@ About
 
 ## Research and engineering for real imaging systems
 
-I am a research and development engineer focused on image sensors, AI-based signal processing, and computational imaging. My work centers on turning imaging constraints into robust algorithms for practical systems, from RAW image processing and defect correction to efficient neural processing on constrained devices.
+I am an R&D engineer working on image sensor signal processing, AI-based imaging, and computational imaging. My work focuses on practical imaging systems, lightweight neural networks, RAW image processing, and real-world constraints in image sensor pipelines.
+
+I also have experience in academic community activities and industry relations in computer vision and image processing, including Visiting Researcher experience at UCLA.
 ::::
 
 :::: {#highlights .content-section}
@@ -45,19 +47,19 @@ I am a research and development engineer focused on image sensors, AI-based sign
 Highlights
 :::
 
-## Focus Areas
+## Profile Highlights
 
 :::: {.card-grid}
 ::: {.info-card}
 ### Image sensor R&D
 
-Signal processing for emerging sensor functions and practical camera pipelines.
+Signal processing for sensor pipelines, RAW data, and practical camera systems.
 :::
 
 ::: {.info-card}
 ### AI-based signal processing
 
-Learning-based methods for image quality, robustness, and efficient deployment.
+Learning-based imaging methods designed with efficiency and deployment constraints in mind.
 :::
 
 ::: {.info-card}
@@ -69,19 +71,19 @@ Algorithms that combine optics, sensing, reconstruction, and downstream percepti
 ::: {.info-card}
 ### Practical imaging systems
 
-Development experience across algorithm design, constraints, validation, and delivery.
+Experience connecting imaging algorithms with real-world sensor constraints.
 :::
 
 ::: {.info-card}
-### Kaggle Competitions Master
+### Competition results
 
-Applied machine learning experience in competitive, measurable problem settings.
+Recognized results in Kaggle and CVPR Workshop imaging challenges.
 :::
 
 ::: {.info-card}
-### Community activity
+### Academic and industry relations
 
-SSII Takagi Award and MIRU 2026 corporate relations / sponsorship committee activity.
+Community activity across computer vision, image processing, and industry relations.
 :::
 ::::
 ::::
@@ -106,37 +108,39 @@ Expertise
 :::
 ::::
 
-:::: {#achievements .content-section .split-section}
+:::: {#competitions .content-section .split-section}
 ::: {.section-intro}
 ::: {.section-kicker}
-Selected Achievements
+Selected Competition Results
 :::
 
-## Bridging algorithms and capture constraints
+## Measurable results in imaging and AI challenges
 :::
 
-::: {.check-list}
-- Contributed signal processing approaches for novel image sensor technologies.
-- Contributed to practical imaging systems under real capture, quality, and deployment constraints.
-- Built research and development experience connecting algorithms with physical imaging conditions.
-- Supported activities that connect academic communities and industry practitioners.
+::: {.result-list}
+- **3rd Place**, NTIRE 2026 Efficient Low Light Image Enhancement Challenge, CVPR Workshop 2026
+- **3rd Place / Gold Medal**, RSNA 2024 Lumbar Spine Degenerative Classification, Kaggle
+- **Kaggle Competitions Master**
 :::
 ::::
 
-:::: {#awards .content-section .two-column}
-::: {.section-intro}
+:::: {#awards .content-section}
 ::: {.section-kicker}
-Awards
+Awards & Recognition
 :::
 
-## Recognition
+## Awards across imaging, AI, and research communities
 
-::: {.plain-list}
-- SSII Takagi Award, 2021
-- Kaggle Competitions Master
+::: {.award-list}
+- Educational Merit Award, RSNA Lumbar Spine Degenerative Classification AI Challenge, 2024
+- Takagi Award, Symposium on Sensing via Image Information, 2021
+- Audience Award, Symposium on Sensing via Image Information, 2018
+- Best Academic Paper Award, Symposium on Sensing via Image Information, 2018
+- Research Award, Game Programming Workshop, 2008
 :::
-:::
+::::
 
+:::: {#activities .content-section .two-column}
 ::: {.section-intro}
 ::: {.section-kicker}
 Professional Activities
@@ -145,8 +149,23 @@ Professional Activities
 ## Community
 
 ::: {.plain-list}
-- Corporate Relations / Sponsorship Committee, MIRU 2026
-- Computer vision and image processing community activities
+- Corporate Relations Vice Chair, MIRU 2026
+- Steering Committee Member, IPSJ SIG-CVIM, Apr. 2021 – Mar. 2026
+:::
+:::
+
+::: {.section-intro}
+::: {.section-kicker}
+Languages & Credentials
+:::
+
+## Additional profile
+
+::: {.plain-list}
+- Japanese: Native or bilingual
+- English: Business level
+- Kaggle Competitions Master
+- Real Estate Transaction Agent, Japan
 :::
 :::
 ::::

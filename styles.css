@@ -38,7 +38,12 @@ a:hover {
 }
 
 main.content {
+  grid-column: screen-start / screen-end;
   padding: 0;
+}
+
+#quarto-content.page-columns main.content.column-page {
+  grid-column: screen-start / screen-end;
 }
 
 .quarto-title-block {
@@ -249,19 +254,35 @@ main.content {
 }
 
 .plain-list,
-.check-list {
+.check-list,
+.result-list,
+.award-list {
   color: var(--muted);
 }
 
 .plain-list ul,
-.check-list ul {
+.check-list ul,
+.result-list ul,
+.award-list ul {
   margin: 0;
   padding-left: 1.1rem;
 }
 
 .plain-list li,
-.check-list li {
+.check-list li,
+.result-list li,
+.award-list li {
   margin-bottom: 0.65rem;
+}
+
+.result-list li,
+.award-list li {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  list-style-position: inside;
+  margin-bottom: 0.75rem;
+  padding: 0.8rem 1rem;
 }
 
 .link-grid {
@@ -333,12 +354,42 @@ main.content {
 }
 
 @media (max-width: 560px) {
+  body {
+    overflow-x: hidden;
+  }
+
   .hero {
     padding: 2.4rem 1rem 2.8rem;
   }
 
+  .hero,
+  .content-section {
+    margin-left: 0;
+    margin-right: auto;
+    max-width: calc(100vw - 2rem);
+    width: calc(100vw - 2rem);
+  }
+
   .hero h1 {
     font-size: 2.5rem;
+  }
+
+  .eyebrow,
+  .section-kicker,
+  .hero-copy,
+  .hero-lead,
+  .content-section h2,
+  .content-section p {
+    max-width: 20rem;
+  }
+
+  .eyebrow {
+    font-size: 0.72rem;
+  }
+
+  .hero-lead,
+  .content-section p {
+    font-size: 1rem;
   }
 
   .hero-media {

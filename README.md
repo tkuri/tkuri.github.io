@@ -33,3 +33,7 @@ Replace placeholders in `index.qmd` and `_quarto.yml`:
 - `<github-username>`
 
 Do not include confidential employer information, unpublished product names, customer names, internal organization details, unreleased performance data, or unpublished patent ideas.
+
+Keep education and employment history abstracted on the public page. Do not add employer names, past employer names, university names, degrees, departments, internal role history, or employment periods, except for the approved Visiting Researcher experience at UCLA.
+
+The IPSJ SIG-CVIM activity is listed as `Apr. 2021 – Mar. 2026`; do not change it to `present` or `current`.
