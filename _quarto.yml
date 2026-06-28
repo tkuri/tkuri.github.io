@@ -6,7 +6,7 @@ project:
     - assets/hero-imaging.png
 
 website:
-  title: "Teppei Kurita"
+  title: "Teppei Kurita / 栗田 哲平"
   site-url: "https://tkuri.github.io/"
   navbar: false
   page-footer:

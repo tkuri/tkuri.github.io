@@ -1,6 +1,7 @@
 ---
-title: "Teppei Kurita"
-description: "Image Sensor R&D / AI Signal Processing / Computational Imaging"
+title: "Teppei Kurita / 栗田 哲平"
+description: "Teppei Kurita (栗田 哲平) - Image Sensor R&D / AI Signal Processing / Computational Imaging"
+author-meta: "Teppei Kurita (栗田 哲平)"
 title-block-style: none
 ---
 
@@ -14,6 +15,10 @@ Image Sensor R&D / AI Signal Processing / Computational Imaging
 :::
 
 # Teppei Kurita {#hero-title}
+
+::: {.hero-name-ja lang="ja"}
+栗田 哲平
+:::
 
 ::: {.hero-lead}
 R&D engineer working at the intersection of image sensors, AI signal processing, and computational imaging.
