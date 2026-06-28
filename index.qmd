@@ -203,7 +203,6 @@ Links
 - [GitHub](https://github.com/tkuri)
 - [LinkedIn](https://www.linkedin.com/in/teppei-kurita-457409198)
 - [ORCID](https://orcid.org/0000-0002-4537-3244)
-- [researchmap](https://researchmap.jp/YOUR_RESEARCHMAP_ID)
 :::
 ::::
 
